@@ -8,7 +8,6 @@ This approach uses Amazon Bedrock Knowledge Base's **RetrieveAndGenerate** API w
 
 The original implementation is available in the AWS Samples repository:
 - **Repository:** [genai-invoice-processor](https://github.com/aws-samples/genai-invoice-processor)
-- **Local Path:** `C:\personal\Metrics\IDP\3rdApproach\genai-invoice-processor`
 
 ## Architecture
 
