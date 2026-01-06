@@ -1,0 +1,12 @@
+{
+  "EventPattern": {
+    "source": ["aws.bedrock"],
+    "detail-type": ["Bedrock Data Automation Job Succeeded"],
+    "detail": {
+      "job_status": ["SUCCESS"]
+    }
+  },
+  "Name": "BDA-Invoice-Job-Completion",
+  "Description": "Triggers Lambda when BDA invoice processing job completes successfully",
+  "State": "ENABLED"
+}
