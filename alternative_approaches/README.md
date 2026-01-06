@@ -8,7 +8,7 @@ While **Bedrock Data Automation** is the recommended approach for high-volume, c
 
 ## Approaches Included
 
-### 1. Textract + Bedrock LLM (Coming Soon)
+### 1. Textract + Bedrock LLM
 **Status:** Production-capable with cost efficiency and flexibility
 
 A composable architecture combining Textract's structured extraction with Bedrock-hosted LLMs for semantic validation.
