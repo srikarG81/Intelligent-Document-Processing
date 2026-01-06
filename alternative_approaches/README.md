@@ -23,7 +23,7 @@ A composable architecture combining Textract's structured extraction with Bedroc
 - Limited to Textract's predefined schemas
 - More engineering effort than fully managed solutions
 
-### 2. Bedrock Knowledge Base (Coming Soon)
+### 2. Bedrock Knowledge Base
 **Status:** Production-grade for RAG, not optimized for structured extraction
 
 A managed RAG service for document Q&A and understanding using multi-modal capabilities.
